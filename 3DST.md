@@ -32,15 +32,18 @@ Some of these will be referenced later by the term used in the Function column.
 Here are some visual examples, manipulating the header data to show what the header values do
 
 Original vanilla atlas.textures.meta:
+
 ![Original](https://github.com/user-attachments/assets/c4833b7f-6bb8-4813-b1b3-d4d8ca92a48c)
 
-Setting Width to 256 `00 01 00 00`, half the original width 
+Setting Width to 256 `00 01 00 00`, half the original width:
+
 ![Half Width](https://github.com/user-attachments/assets/684245e2-3e4f-469f-ae83-e21f25cbf5c8)
 
-Setting Height to 256 `00 01 00 00`, half the original height 
+Setting Height to 256 `00 01 00 00`, half the original height:
+
 ![Half Height](https://github.com/user-attachments/assets/8b767316-f2e4-4190-bf9d-b4454c97c726)
 
-Setting Raw Width to 256 `00 01 00 00`, Raw Height to 1024 `00 04 00 00`, and Width and Height the same as their "raw" counterparts.
+Setting Raw Width and Width to 256 `00 01 00 00`, Raw Height and Height to 1024 `00 04 00 00`:
 
 
 ## Image Data
